@@ -1,0 +1,4 @@
+#Wed Feb 10 17:59:09 ICT 2021
+base.0=D\:\\KULIAH\\Semester 5\\Pemrograman Perangkat Lunak Bergerak 1\\Project\\UAS_DzakiAM201804016\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
